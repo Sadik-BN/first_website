@@ -1,0 +1,111 @@
+.cont{
+    font-family:san-serif ;
+    background:#E0FFFF;
+    line-height:30px ;
+    color:steelblue;
+}
+.logo{
+    width:75%
+}
+.bar{
+   background:steelblue;
+   font-size:25px;
+   padding:30px ;
+   border-radius:10px;
+   border-left:10px solid #000080;
+   border-right:10px solid #000080; 
+}
+.bar-btn{
+    background-color:white;
+    color:steelblue;
+    padding:13px 42px 13px 42px ;
+    border-radius:20px;
+    text-decoration:none;
+}
+.logo-cont{
+    width:150px;
+}
+.marq{
+    color:#008080;
+}
+.foot{
+    color:blue;
+    background:steelblue;
+    font-size:25px;
+    text-align:center;
+    border-radius:10px;
+    padding:30px ;
+    border-left:10px solid #000080;
+    border-right:10px solid #000080;
+            
+}
+#darkred{
+    color:darkred;
+}
+#intro{
+    background:#F0FFF0;
+    color:darkgreen;
+    text-align:center;
+    border-left:10px solid darkgreen;
+    border-right:10px solid;darkgreen;
+    padding:30px ;
+}
+.dec-none{
+    text-decoration:none;
+}
+#foot{
+    text-align:center;    
+}
+#mb-btn{
+    background-color:steelblue;
+    color:#E0FFFF;
+    padding:13px 42px 13px 42px ;
+    border-radius:20px;
+    text-decoration:none;
+}
+#home-btn{
+    background-color:darkred;
+    color:#E0FFFF;
+    padding:13px 42px 13px 42px ;
+    border-radius:20px;
+    text-decoration:none;    
+}
+
+#rdme{
+    background:black ;
+    color:#708090;    
+}
+#description{
+    color:yellow;
+    text-align:center;
+     } 
+#host{
+    color:darkgreen;
+    text-align:center;
+     } 
+#contact{
+    color:orange;
+    text-align:center;
+     }
+#complain{
+    color:darkred;
+    text-align:center;
+     }
+#divof-btn{
+    text-align:center;  
+}
+#rdme-btn{
+    background-color:purple;
+    color:black;
+    padding:13px 42px 13px 42px ;
+    border-radius:20px;
+    text-decoration:none;
+}
+#steelblue-color{
+    text-align:center;
+    color:steelblue ;
+     }
+#end{
+    color:green;
+    text-align:center;
+     }
